@@ -4,4 +4,4 @@ This project was done in collaboration with Samayita Bhattacharjee, Emily Chang,
 
 # Files
 
-The PDF file contains the final written report in LaTeX. The source LaTeX file is included in this repository as well as the code that was written for the project in R.
+The PDF file contains the final written report in LaTeX. Also included are the source LaTeX file, the code that was written for the project in R, and various supporting files such as the data and figures.
